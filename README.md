@@ -1,13 +1,13 @@
-About <pkg_name>-feedstock
+About <gw-dsl-parser>-feedstock
 =======================
 
 Feedstock license: [BSD-3-Clause](LICENSE)
 
-Home: <home_url>
+Home: <https://github.com/Kanaries/gw-dsl-parser-py>
 
-Package license: <pkg_license>
+Package license: Apache-2.0
 
-Summary: <pkg_summary>
+Summary: Convert your graphic-walker workflow to sql
 
 
 Current release info
@@ -15,19 +15,19 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-<pkg_name>-green.svg)](https://anaconda.org/anaconda/<pkg_name>) | [![Conda Downloads](https://img.shields.io/conda/dn/anaconda/<pkg_name>.svg)](https://anaconda.org/anaconda/<pkg_name>) | [![Conda Version](https://img.shields.io/conda/vn/anaconda/<pkg_name>.svg)](https://anaconda.org/anaconda/<pkg_name>) | [![Conda Platforms](https://img.shields.io/conda/pn/anaconda/<pkg_name>.svg)](https://anaconda.org/anaconda/<pkg_name>) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-<gw-dsl-parser>-green.svg)](https://anaconda.org/anaconda/<gw-dsl-parser>) | [![Conda Downloads](https://img.shields.io/conda/dn/anaconda/<gw-dsl-parser>.svg)](https://anaconda.org/anaconda/<gw-dsl-parser>) | [![Conda Version](https://img.shields.io/conda/vn/anaconda/<gw-dsl-parser>.svg)](https://anaconda.org/anaconda/<gw-dsl-parser>) | [![Conda Platforms](https://img.shields.io/conda/pn/anaconda/<gw-dsl-parser>.svg)](https://anaconda.org/anaconda/<gw-dsl-parser>) |
 
-Installing <pkg_name>
+Installing <gw-dsl-parser>
 ==================
 
-Installing `<pkg_name>` from the main channel can be achieved by:
+Installing `<gw-dsl-parser>` from the main channel can be achieved by:
 
 ```
-conda install <pkg_name>
+conda install <gw-dsl-parser>
 ```
 
-It is possible to list all of the versions of `<pkg_name>` available on your platform with `conda`:
+It is possible to list all of the versions of `<gw-dsl-parser>` available on your platform with `conda`:
 
 ```
-conda search <pkg_name>
+conda search <gw-dsl-parser>
 ```
